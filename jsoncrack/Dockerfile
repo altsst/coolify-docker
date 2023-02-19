@@ -1,1 +1,1 @@
-jsoncrack
+FROM jsoncrack
